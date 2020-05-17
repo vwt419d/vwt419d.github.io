@@ -142,6 +142,7 @@ end
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
+### The experiment
 
 ![Experiment](https://lh3.googleusercontent.com/pEDPLqs5kRgewB_9v0yHcupiwq2fV0_l9id-pOpWgjJul0OhKqYJ-Eq6p4PNBX2jiw3ttCTmhpVQaCAzb4Y2fVS95MI4jWRQ6iOQaxws21gn7gKzdO-kslatwYopmP3wiwQ8ymkaZsE=w2400)
 
