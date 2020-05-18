@@ -4,7 +4,10 @@
 
 ### Sun 2020.05.17
 
-![Fake.rat](https://lh3.googleusercontent.com/BtbnISB515NKvTq4vDzMPZBcgkMc2Rvah80jdhkHOBWXAbY6g4qlXhomxdz3u-xGX-RL4x9pl9sZ45MelRcf1eT3H6CWXQ5JU394qKgxtyh1VuRslCRnHeVK7iLfgKbXPXG1rEFbi3U=w2400)&nbsp;
+![Fake.rat](https://lh3.googleusercontent.com/BtbnISB515NKvTq4vDzMPZBcgkMc2Rvah80jdhkHOBWXAbY6g4qlXhomxdz3u-xGX-RL4x9pl9sZ45MelRcf1eT3H6CWXQ5JU394qKgxtyh1VuRslCRnHeVK7iLfgKbXPXG1rEFbi3U=w2400)*Is this a rat?*&nbsp;
+
+![Semantic description of image](/images/path/to/folder/image.png)*My caption*
+
 
 Is this a rat?
 
