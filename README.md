@@ -1,3 +1,10 @@
+### Sat 2020.05.16
+
+![Playground](https://lh3.googleusercontent.com/pEDPLqs5kRgewB_9v0yHcupiwq2fV0_l9id-pOpWgjJul0OhKqYJ-Eq6p4PNBX2jiw3ttCTmhpVQaCAzb4Y2fVS95MI4jWRQ6iOQaxws21gn7gKzdO-kslatwYopmP3wiwQ8ymkaZsE=w2400)&nbsp;
+
+Back to the playground, there was almost no one.
+
+
 ## The experiment
 
 <a href="https://lh3.googleusercontent.com/BtbnISB515NKvTq4vDzMPZBcgkMc2Rvah80jdhkHOBWXAbY6g4qlXhomxdz3u-xGX-RL4x9pl9sZ45MelRcf1eT3H6CWXQ5JU394qKgxtyh1VuRslCRnHeVK7iLfgKbXPXG1rEFbi3U=w2400&source=labnol.org"> <img src="https://lh3.googleusercontent.com/BtbnISB515NKvTq4vDzMPZBcgkMc2Rvah80jdhkHOBWXAbY6g4qlXhomxdz3u-xGX-RL4x9pl9sZ45MelRcf1eT3H6CWXQ5JU394qKgxtyh1VuRslCRnHeVK7iLfgKbXPXG1rEFbi3U=w600-h315-p-k" /> </a> &nbsp;
