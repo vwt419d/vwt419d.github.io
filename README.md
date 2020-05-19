@@ -2,7 +2,7 @@
 
 ## This is just an experiment
 
-### MOn 2020.05.18
+### Mon 2020.05.18
 
 ![Gardening](https://lh3.googleusercontent.com/MH_C7yGX15fcaT-oQJlSarH-aUQmonNzafyrNIwUiBPnAvo_N4MeLjorSfXswlcqpOm6unfjGoKjx89Bo6oJPO8mNr7oVdLwF6N4Rl76haAv1yJ66jF8acgwVT7B4PGLTtDBcGVj6Js=w2400)*Gardening*&nbsp;
 
