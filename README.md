@@ -9,7 +9,7 @@
 
 ### Tue 2020.05.19
 
-![Late.running]()*Late running*&nbsp;
+![Barber](https://lh3.googleusercontent.com/emAICiHhYIo55KrNzajG3Ya9MOsm7OzS2TnMiv0_Abu3PBL3mBwAc2nQnCJ3oU53wgZxfUh-vk8FHeO1rLL-jjY0UMKBEIDAxzyvyW1jf5GiX63Rfb5yACXNB-htdJj2b0eUpov3flc=w2400)*Unfinished Haircut*&nbsp;
 
 
 ### Mon 2020.05.18
